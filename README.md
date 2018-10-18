@@ -1,15 +1,17 @@
 # GitHub Tutorial
-
+Q
 _by Chrisoula Manguravdos_
 
 ---
 ## Git vs. GitHub
 **What is Git?**
 
-Git is version control and keeps a snapshot of your code 
-In order to use Git you don't need Github
 
-**What is Github?***
+
+**What is Github?**
+
+GitHub is a coding platform for version control and collaboration.
+It lets you and others work together on projects.
 
 
 
@@ -26,6 +28,12 @@ In order to use Git you don't need Github
 
 ---
 ## Workflow & Commands
+
+
+
+---
+## Error Handling 
+
 
 
 

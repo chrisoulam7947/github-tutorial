@@ -110,6 +110,76 @@ Moves and renames files
 
 takes you to the file you want that is present in the directory
 
+**git init**
+
+Initializes git in our directory for version control. Only do this once in the beginning 
+
+**rm -rf .git**
+
+If you do git in the wrong folder. This will correct it 
+
+**git add file**
+
+Add file to stage so that it can be committed.
+
+**git add .**
+
+Adds the current./entire directory: all files that have changed. (going to be green) Will not add to stage any deleted or renamed files 
+
+**git add --all**
+
+Include all changes, including deleted files.Will add any deleted or renamed files 
+
+**git commit -m "message"**
+
+Take a ‘snapshot’ of the files on the stage. The snapshot should be present-tense and describe what was modified in this snapshot (create HTML template’)
+
+**git remote add origin URL**
+
+git: a git command
+
+remote: we are setting up a connection between our current repository and an external one (that lives on github)
+
+add: we are adding the remote repo (as opposed to editing or removing an existing one)
+
+origin: this is our “nickname” for the remote repo.  “origin” is standard.  In the future, you might need multiple remotes.
+
+URL: the location of the remote repo. 
+
+**git push -u origin master:**
+Push: we are sending our commits from our local repo to our remote repo
+-u: means “upstream” This tells git remember which remote repo and branch to push our changes to when type git push in the future
+
+
+**git push**
+We are sending our commits from our local repo to our remote repo
+**git diff**
+Show difference between current code and the previous commit
+**git log**
+see your past commits 
+q (while in git log)
+
+
+git checkout -- file
+
+
+git reset HEAD file
+
+
+git remote -v
+
+
+**Git status**
+
+Optional command to see which files have been edited since the last commit. (will be red). 
+
+Command to see which files are staged for the commit (they will be green). (**remember: press “up arrow” twice)
+
+**Git pull**
+
+Bring any changes from the remote to local repo
+
+
 
 ---
 ## Error Handling 

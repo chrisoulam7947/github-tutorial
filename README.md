@@ -10,20 +10,19 @@ _by Chrisoula Manguravdos_
 
 2. The initial setup
 
-3. Make changes to a file and push them to GitHub as commits
 
-4. Open and merge a pull request
+3. Open and merge a pull request
 
-5. Repository Setup
+4. Repository Setup
 
-6. Workflow and Commands
+5. Workflow and Commands
 
-7. Error handling 
+6. Error handling 
 
-8. How to roll back changes
+7. How to roll back changes
 
 **What is Git?**
-
+Is version control: It takes snapshots of your code 
 
 
 **What is Github?**
@@ -67,6 +66,49 @@ Leave everything else as it is and click _Create repository_
 ---
 ##  Workflow and Commands
 
+**pwd**
+
+Prints working directories 
+
+**ls**
+
+Lists all the directories you have 
+
+**cd**
+
+Takes you to that directory
+
+**mkdir**
+
+Adds directory
+
+**rmdir**
+
+Removes directory
+
+**touch**
+
+It makes a file to the directory
+
+**rm**
+
+Removes files
+
+**rm -rf**
+
+Removes directory even if it includes anything inside
+
+**mv (to rename)**
+
+To rename your file 
+
+**mv (to move)**
+
+Moves and renames files
+
+**c9 file**
+
+takes you to the file you want that is present in the directory
 
 
 ---

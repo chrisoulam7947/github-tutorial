@@ -22,8 +22,26 @@ _by Chrisoula Manguravdos_
 7. How to roll back changes
 
 **What is Git?**
+
 Is version control: It takes snapshots of your code 
 
+Snapshot- keeps older version of your code
+
+Doesn’t require github
+
+Runs in the command line
+
+Basic workflow
+
+You have a directory (folder) of files
+
+Once we initialize git (for version control), we call it a repository (repo for short)
+
+Edit files (save them on the way) 
+
+Add files (to the stage) 
+
+Commit them 
 
 **What is Github?**
 

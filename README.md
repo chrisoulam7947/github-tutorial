@@ -71,9 +71,22 @@ Leave everything else as it is and click _Create repository_
 
 ---
 ## Error Handling 
-
+If you ever happen to do git init in ~/workspace, **DON'T PANIC**. All you have to do is rm -rf .git
 
 
 
 ---
 ## Rolling Back Changes
+Have  you ever wanted to undo something you did but didn't know how?.
+
+**Here is how** 
+
+The way to undo an edit is by using git checkout -- filename
+
+The way to undo an add is by using git reset HEAD filename
+
+The way to undo a commit is by using git reset --soft HEAD~1
+
+The way to undo commits and adds is by using git reset HEAD~1
+
+The way to undo commits and eddits is by using git reset --hard HEAD~1

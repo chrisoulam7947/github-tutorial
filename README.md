@@ -4,55 +4,34 @@ _by Chrisoula Manguravdos_
 
 ---
 ## Git vs. GitHub
-**You will learn how to:**
-
-1. Create and use a repository
-
-2. The initial setup
-
-
-3. Open and merge a pull request
-
-4. Repository Setup
-
-5. Workflow and Commands
-
-6. Error handling 
-
-7. How to roll back changes
 
 **What is Git?**
 
-Is version control: It takes snapshots of your code 
+It's a type of **version control**, it takes snapshots of your code 
 
 Snapshot- keeps older version of your code
 
-Doesn’t require github
+- Doesn’t require github
 
-Runs in the command line
+- Runs in the command line
 
-Basic workflow
+- Basic workflow
 
-You have a directory (folder) of files
+- You have a directory (folder) of files
 
-Once we initialize git (for version control), we call it a repository (repo for short)
+- Once we initialize git (for version control), we call it a repository (repo for short)
 
-Edit files (save them on the way) 
+- Edit files (save them on the way) 
 
-Add files (to the stage) 
+- Add files (to the stage) 
 
-Commit them 
+- Commit them 
 
 **What is Github?**
 
 * GitHub is a coding platform for version control and collaboration.
 
 * It lets you and others work together on projects.
-* You’ll learn how to:
-
-
-
-
 
 
 ---
@@ -72,7 +51,7 @@ In the upper right corner, next to your avatar, click and then select _New repos
 
 Name your repository according to what you are doing. 
 
-If you want you can write a short description saying what your repository is about.
+If you want, you can write a short description saying what your repository is about.
 
 Leave everything else as it is and click _Create repository_
 
